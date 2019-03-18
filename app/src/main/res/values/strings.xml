@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bubble</string>
+    <string name="google_maps_API_key">AIzaSyDPzPt1PvM7HcIFPSrK9QQ2WN29LB3I5LQ</string>
+    <string name="loading">Loading…</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Notifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="privacy_policy"><a href="https://bubbleapp.io/privacy_policy.html"><b>Privacy Policy</b></a></string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

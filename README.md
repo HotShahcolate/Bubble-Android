@@ -19,4 +19,5 @@ Language - Java
 Bubble is a hyperlocal, anonymous mobile chat app. Upon opening, the app will center on your location and you will be represented by a blue dot. When you tap on the map, you will create a Bubble which allows you to chat with everyone in that Bubble!
 
 ## Demo
-https://youtu.be/GksZBy0W978
+https://github.com/user-attachments/assets/73affd7c-004c-45e5-b2e5-83701c42aad5
+
